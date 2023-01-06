@@ -27,7 +27,7 @@ Hi there! My name is SagarBisht and I am a full stack developer with expertise i
   
     
  ## 🌎 Find me on the web
-  LinkedIn: [@sagar.linkdin](https://www.linkedin.com/in/sagar-bisht-b26620192/)
+  LinkedIn: [@sagar.linkedin](https://www.linkedin.com/in/sagar-bisht-b26620192/)
   
   
   Twitter: []()
