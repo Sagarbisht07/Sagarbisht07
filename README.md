@@ -32,6 +32,6 @@ Hi there! My name is SagarBisht and I am a full stack developer with expertise i
   
   Twitter: []()
   
-  Portfolio: [sagar](https://Sagarbisht07.github.io)
+  Portfolio: [SagarBisht](https://Sagarbisht07.github.io)
 
 Thanks for checking out my profile! As a developer, I'm always on the lookout for new opportunities to learn and grow. If you have any questions or think I might be a good fit for your project, don't hesitate to reach out. Let's connect and see how I can contribute to your team.
