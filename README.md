@@ -30,5 +30,7 @@ Hi there! My name is SagarBisht and I am a full stack developer with expertise i
   LinkedIn: [@sagar.linkedin](https://www.linkedin.com/in/sagar-bisht-b26620192/)
   
   Portfolio: [SagarBisht](https://Sagarbisht07.github.io/)
+  
+  📄 Download my <a href= "https://drive.google.com/file/d/1UM_98nioX3HiU-s8obtXpUy_kl89HXlE/view?usp=drive_link" target="_blank">Resume</a>
 
 Thanks for checking out my profile! As a developer, I'm always on the lookout for new opportunities to learn and grow. If you have any questions or think I might be a good fit for your project, don't hesitate to reach out. Let's connect and see how I can contribute to your team.
