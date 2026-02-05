@@ -6,13 +6,33 @@ Hi there! My name is **Sagar Bisht** and I am a full stack developer with expert
 
 ## 📊 GitHub Contribution Highlights
 
+<h2 align="center">📊 GitHub Contribution Carousel</h2>
+
 <div align="center">
-  <img src="assets/contributions-2023.png" width="800" alt="2023 Contributions" />
-  <br/><br/>
-  <img src="assets/contributions-2024.png" width="800" alt="2024 Contributions" />
-  <br/><br/>
-  <img src="assets/contributions-2025.png" width="800" alt="2025 Contributions" />
+
+<a href="#slide3">⬅️ Prev</a> |
+<a href="#slide1">Next ➡️</a>
+
+<br/><br/>
+
+<img id="slide1" src="assets/contributions-2023.png" width="800"/>
+
+<br/><br/>
+
+<a href="#slide1">1</a> |
+<a href="#slide2">2</a> |
+<a href="#slide3">3</a>
+
+<br/><br/>
+
+<img id="slide2" src="assets/contributions-2024.png" width="800"/>
+
+<br/><br/>
+
+<img id="slide3" src="assets/contributions-2025.png" width="800"/>
+
 </div>
+
 
 ---
 
