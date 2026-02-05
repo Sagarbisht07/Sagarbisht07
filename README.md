@@ -5,34 +5,10 @@ Hi there! My name is **Sagar Bisht** and I am a full stack developer with expert
 ---
 
 ## 📊 GitHub Contribution Highlights
-
-<h2 align="center">📊 GitHub Contribution Carousel</h2>
-
-<div align="center">
-
-<a href="#slide3">⬅️ Prev</a> |
-<a href="#slide1">Next ➡️</a>
-
-<br/><br/>
-
-<img id="slide1" src="assets/contributions-2023.png" width="800"/>
-
-<br/><br/>
-
-<a href="#slide1">1</a> |
-<a href="#slide2">2</a> |
-<a href="#slide3">3</a>
-
-<br/><br/>
-
-<img id="slide2" src="assets/contributions-2024.png" width="800"/>
-
-<br/><br/>
-
-<img id="slide3" src="assets/contributions-2025.png" width="800"/>
-
-</div>
-
+<img width="920" height="218" alt="image" src="https://github.com/user-attachments/assets/6e2f8b56-fc29-40ff-8b97-4837fc1a9dfb" />
+<img width="937" height="220" alt="image" src="https://github.com/user-attachments/assets/31e3fb76-4f35-41e3-903e-92e56c937a69" />
+<img width="932" height="230" alt="image" src="https://github.com/user-attachments/assets/9e1a44bb-d75c-4d65-a70f-4500ac82e73c" />
+<img width="915" height="247" alt="image" src="https://github.com/user-attachments/assets/7059ae58-59f6-42a8-85fd-fdb16ffbd17d" />
 
 ---
 
